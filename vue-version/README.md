@@ -1,9 +1,7 @@
-# vue-version
+# Conversor de Moedas
 
 ## Project setup
-```
-npm install
-```
+- Instalar dependências necessárias: `npm install`
 
 ### Compiles and hot-reloads for development
 ```
@@ -24,6 +22,3 @@ npm run test
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
