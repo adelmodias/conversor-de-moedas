@@ -1,6 +1,6 @@
 # Conversor de Moedas
 
-## Project setup
+## Setup do projeto
 - Instalar dependências necessárias: `npm install`
 - Compilar, criar auto-reload e executar em servidor local: `npm run serve`
 - Compilar e minificar arquivos para produção: `npm run build`
