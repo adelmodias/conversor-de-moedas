@@ -2,23 +2,7 @@
 
 ## Project setup
 - Instalar dependências necessárias: `npm install`
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
+- Compilar, criar auto-reload e executar em servidor local: `npm run serve`
+- Compilar e minificar arquivos para produção: `npm run build`
+- Executar testes: `npm run test`
+- Ajustar indentação do código com o Lint: `npm run lint`
